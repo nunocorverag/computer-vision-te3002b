@@ -13,6 +13,24 @@ Repository for computer vision activities from TE3002B - Implementation of Intel
 
 This repository contains implementations of various computer vision techniques applied to autonomous robotics:
 
+### Activity 2.01 - Basic Image Processing
+- **Technique:** Fundamental image operations and transformations
+- **Application:** Introduction to OpenCV and image manipulation
+- **Key Features:** Image loading, display, basic filters
+- **Files:** `activity_2_01/`
+
+### Activity 2.02 - Image Transformations
+- **Technique:** Geometric transformations and color space conversions
+- **Application:** Image preprocessing and feature extraction
+- **Key Features:** Rotation, scaling, translation, color space manipulation
+- **Files:** `activity_2_02/`
+
+### Activity 2.03 - Advanced CV Techniques
+- **Technique:** Edge detection, feature matching, and object recognition
+- **Application:** Advanced computer vision algorithms
+- **Key Features:** Canny edge detection, Harris corners, template matching
+- **Files:** `activity_2_03/`
+
 ### Activity 2.04 - Center Line Detection
 - **Technique:** ROI cropping, Otsu thresholding, contour filtering
 - **Application:** Lane following for autonomous navigation
