@@ -35,13 +35,13 @@ This repository contains implementations of various computer vision techniques a
 - **Technique:** ROI cropping, Otsu thresholding, contour filtering
 - **Application:** Lane following for autonomous navigation
 - **Key Features:** Temporal smoothing, proportional steering control
-- **Files:** `actividad_2_04/`
+- **Files:** `activity_2_04/`
 
 ### Activity 2.05 - Traffic Light Detection
 - **Technique:** HSV color space detection
 - **Application:** Traffic light state recognition (red, yellow, green)
 - **Key Features:** Morphological operations, position-based disambiguation
-- **Files:** `actividad_2_05/`
+- **Files:** `activity_2_05/`
 
 ### Activity 2.06 - Traffic Sign Detection
 - **Technique:** Dual-approach pipeline (Blur Detection + YOLOv8 CNN)
@@ -50,7 +50,7 @@ This repository contains implementations of various computer vision techniques a
   - Approach A: Image quality filtering (Laplacian variance)
   - Approach B: Deep learning with YOLOv8
   - 5 sign classes: Stop, Workers, Go Straight, Turn Left, Turn Right
-- **Files:** `actividad_2_06/`
+- **Files:** `activity_2_06/`
 
 ---
 
