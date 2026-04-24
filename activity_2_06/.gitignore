@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Video outputs (generated automatically)
+*.mp4
+*.avi
+
+# Dataset (excluded, too large)
+dataset/
+Traffic Signs Detection*/
+**/train/
+**/valid/
+**/test/
+
+# Weights (opcional si se sube a Git)
+# weights/*.pt
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db

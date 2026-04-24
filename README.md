@@ -42,17 +42,19 @@ This repository contains implementations of various computer vision techniques a
 Activities/
 ├── README.md                    <- This file
 ├── .gitignore                   <- Excludes videos, datasets, temp files
-├── actividad_2_04/              <- Center line detection
+├── activity_2_01/               <- Basic image processing
+├── activity_2_02/               <- Image transformations
+├── activity_2_03/               <- Advanced CV techniques
+├── activity_2_04/               <- Center line detection
 │   ├── README.md
 │   ├── actividad_2_04.py
 │   ├── fulltest.py
 │   └── ...
-├── actividad_2_05/              <- Traffic light detection
+├── activity_2_05/               <- Traffic light detection
 │   ├── README.md
-│   ├── main.py
 │   ├── test_traffic_light.py
 │   └── ...
-└── actividad_2_06/              <- Traffic sign detection (YOLO)
+└── activity_2_06/               <- Traffic sign detection (YOLO)
     ├── README.md
     ├── actividad_2_06.py
     ├── detector.py
@@ -119,15 +121,15 @@ te3002b-sim
 
 ```bash
 # Activity 2.04 - Center Line Detection
-cd actividad_2_04
+cd activity_2_04
 python3 actividad_2_04.py
 
 # Activity 2.05 - Traffic Light Detection
-cd ../actividad_2_05
+cd ../activity_2_05
 python3 test_traffic_light.py
 
 # Activity 2.06 - Traffic Sign Detection
-cd ../actividad_2_06
+cd ../activity_2_06
 python3 actividad_2_06.py
 ```
 
